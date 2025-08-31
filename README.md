@@ -18,8 +18,10 @@
 ---
 
 ## After
-- Teams has been updated to version `25122.1415.3698.6812` or newer.  
-- Evidence (placeholders for now):  
-  Teams-After-Details.png  
-  Teams-After-Tenable-Rescan.png  
+Microsoft Teams successfully updated to version 25122.1415.3698.6812 or later, mitigating the RCE vulnerability.
+Evidence (to be included):
+
+Teams-After-Details.png
+
+Teams-After-Tenable-Rescan.png 
 
