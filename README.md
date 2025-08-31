@@ -4,8 +4,8 @@
 - **Finding:** Microsoft Teams for Desktop is outdated (version < 25122.1415.3698.6812), affected by a Remote Code Execution (RCE) vulnerability.  
 - **Risk:** Attackers can exploit a heap-based buffer overflow to execute arbitrary code remotely.  
 - **Evidence:**  
-  ![Before – Tenable Finding](Teams-Before-Finding.png)  
-  ![Before – Version Details](Teams-Before-Details.png)  
+  ![Before – Tenable Finding](Teams-Before-FindingsList.png)  
+![Before – Version Details](Teams-Before-Details.png)
 
 ---
 
